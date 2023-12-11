@@ -1,0 +1,6 @@
+{:dbspec {:dbtype "postgresql"
+          :dbname "spotitime"
+          :user "spotitime"
+          :password ""
+          :host ""
+          :port "5432"}}
